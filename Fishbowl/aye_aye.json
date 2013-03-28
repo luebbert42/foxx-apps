@@ -2,7 +2,7 @@
   "description": "This a demo aaplication implement a ToDo list based in TodoMVC.",
   "author": "Michael Hackstein",
 
-  versions: {
+  "versions": {
     "1.0.2" : { "type": "git", "location": "https://github.com/mchacki/aye_aye", "tag": "v1.0.2" }
   }
 }

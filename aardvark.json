@@ -1,0 +1,8 @@
+{
+  "description": "This an application to control other applications",
+  "author": "Michael Hackstein",
+
+  "versions": {
+    "1.0.0" : { "type": "embedded" }
+  }
+}

@@ -3,6 +3,6 @@
   "author": "Michael Hackstein",
 
   "versions": {
-    "1.0.4" : { "type": "github", "location": "mchacki/aye_aye", "tag": "v1.0.4" }
+    "1.0.5" : { "type": "github", "location": "mchacki/aye_aye", "tag": "v1.0.5" }
   }
 }

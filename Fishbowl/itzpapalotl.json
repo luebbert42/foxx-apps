@@ -1,0 +1,8 @@
+{
+  "description": "This a demo application providing a REST interface to return a random Aztec god name.",
+  "author": "jsteemann",
+
+  "versions": {
+    "0.0.1" : { "type": "github", "location": "jsteemann/itzpapalotl", "branch": "master" }
+  }
+}

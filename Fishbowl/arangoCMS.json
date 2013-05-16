@@ -1,0 +1,8 @@
+{
+  "description": "This a simple Content Management System for ArangoDB.",
+  "author": "Michael Hackstein",
+
+  "versions": {
+    "1.0.0" : { "type": "github", "location": "mchacki/arangoCMS", "tag": "v0.0.1" }
+  }
+}

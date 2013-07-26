@@ -1,0 +1,9 @@
+{
+  "description": "This is 'Hello World' for ArangoDB Foxx.",
+  "author": "Frank Celler",
+
+  "versions": {
+    "1.1.0" : { "type": "github", "location": "fceller/hello-foxx", "tag": "v1.1.0" },
+    "1.1.1" : { "type": "github", "location": "fceller/hello-foxx", "tag": "v1.1.1" }
+  }
+}

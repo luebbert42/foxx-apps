@@ -9,8 +9,8 @@ If you have created a nice Foxx application and you want to share it with
 the community out there, clone this repository, add a short description
 to the "applications" folder and issue a pull request.
 
-"hallo-foxx" is the hallo world example for Foxx. Its 
-[description file](https://github.com/triAGENS/foxx-apps/blob/master/applications/hallo-foxx.json)
+"hello-foxx" is the hello world example for Foxx. Its 
+[description file](https://github.com/triAGENS/foxx-apps/blob/master/applications/hello-foxx.json)
 can be found in the applications folder.
 
     {
@@ -18,7 +18,7 @@ can be found in the applications folder.
       "author": "Frank Celler",
 
       "versions": {
-        "1.1.0" : { "type": "github", "location": "fceller/hallo-foxx", "tag": "v1.1.0" }
+        "1.2.0" : { "type": "github", "location": "fceller/hello-foxx", "tag": "v1.2.0" }
       }
     }
 
@@ -31,7 +31,7 @@ The description file is a JSON document with the attributes:
 In order to install this application into your local ArangoDB
 installation, you can use the foxx-manager like this
 
-    foxx-manager install hallo-foxx /hallo
+    foxx-manager install hello-foxx /hello
 
 This will download the application into your local installation of
 ArangoDB (which must be up and running) and mount it under the path
@@ -39,6 +39,6 @@ ArangoDB (which must be up and running) and mount it under the path
 
 If you now visit
 
-    http://localhost:8529/hallo
+    http://localhost:8529/hello
 
 you should see a nice fox.

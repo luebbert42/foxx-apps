@@ -3,6 +3,7 @@
   "author": "Frank Celler",
 
   "versions": {
+    "1.2.2" : { "type": "github", "location": "fceller/hello-foxx", "tag": "v1.2.2" },
     "1.2.1" : { "type": "github", "location": "fceller/hello-foxx", "tag": "v1.2.1" },
     "1.2.0" : { "type": "github", "location": "fceller/hello-foxx", "tag": "v1.2.0" },
     "1.1.1" : { "type": "github", "location": "fceller/hello-foxx", "tag": "v1.1.1" },

@@ -3,6 +3,6 @@
   "author": "jsteemann",
 
   "versions": {
-    "0.0.1" : { "type": "github", "location": "jsteemann/itzpapalotl", "branch": "master" }
+    "0.0.2" : { "type": "github", "location": "jsteemann/itzpapalotl", "branch": "master" }
   }
 }

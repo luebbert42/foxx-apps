@@ -35,7 +35,7 @@ installation, you can use the foxx-manager like this
 
 This will download the application into your local installation of
 ArangoDB (which must be up and running) and mount it under the path
-"/test".
+"/hello".
 
 If you now visit
 
